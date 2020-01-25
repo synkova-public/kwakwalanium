@@ -1,4 +1,4 @@
-# kwakwalanium
+# Kwak'wala'nium
 <p>My final project for the FNEL 141 class was making a board game that would allow for a fun
 and engaging learning experience for players. The final product includes a cardboard playboard
 decorated to reflect the theme of the game, a rulebook/manual, answer and translation guide,
